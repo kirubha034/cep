@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: CEP
-Bundle-SymbolicName: CEP
+Bundle-SymbolicName: CEP-GIT-old_before_moving_
 Bundle-Version: 1.0.0.qualifier
 Bundle-ClassPath: CEP.jar,
  kirajama/Desktop/Selenium JAr/selenium-server-standalone-2.53.0.jar,
