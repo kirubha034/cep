@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CEP
+Bundle-SymbolicName: CEP
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: CEP.jar,
+ kirajama/Desktop/Selenium JAr/selenium-server-standalone-2.53.0.jar,
+ kirajama/Desktop/Selenium-appache poi/poi-3.13/poi-3.13-20150929.jar,
+ kirajama/Desktop/Selenium-appache poi/poi-3.13/poi-examples-3.13-20150929.jar,
+ kirajama/Desktop/Selenium-appache poi/poi-3.13/poi-excelant-3.13-20150929.jar,
+ kirajama/Desktop/Selenium-appache poi/poi-3.13/poi-ooxml-3.13-20150929.jar,
+ kirajama/Desktop/Selenium-appache poi/poi-3.13/poi-ooxml-schemas-3.13-20150929.jar,
+ kirajama/Desktop/Selenium-appache poi/poi-3.13/poi-scratchpad-3.13-20150929.jar,
+ kirajama/Desktop/Selenium-appache poi/poi-3.13/lib/commons-codec-1.9.jar,
+ kirajama/Desktop/Selenium-appache poi/poi-3.13/lib/commons-logging-1.1.3.jar,
+ kirajama/Desktop/Selenium-appache poi/poi-3.13/lib/junit-4.12.jar,
+ kirajama/Desktop/Selenium-appache poi/poi-3.13/lib/log4j-1.2.17.jar,
+ kirajama/Desktop/Selenium-appache poi/poi-3.13/ooxml-lib/xmlbeans-2.6.0.jar,
+ kirajama/Desktop/Selenium JAr/reportng-1.1.4.jar,
+ kirajama/Desktop/Selenium JAr/velocity-dep-1.2.jar,
+ kirajama/Desktop/Selenium JAr/guice-3.0.jar,
+ kirajama/Desktop/Selenium JAr/javax.mail-api-1.5.5.jar,
+ kirajama/Desktop/Selenium JAr/commons-email-1.2.jar,
+ kirajama/Desktop/Selenium JAr/activation-1.1.0.jar,
+ kirajama/Desktop/Selenium JAr/mail-3.0.2-sources.jar,
+ kirajama/Documents/javaee-api-7.0.jar,
+ kirajama/Documents/mail-1.4.jar,
+ kirajama/Documents/javax.mail-1.5.1.jar
+Export-Package: .,
+ com.cisco.cep.Test,
+ com.cisco.cep.event,
+ com.cisco.cep.generics,
+ com.cisco.cep.pages
